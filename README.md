@@ -1,5 +1,3 @@
-### Hi there 👋, I`m Andrii
-
 <h1 align="center">Hi 👋, I'm Andrii</h1>
 <h3 align="center">A professional web developer.</h3>
 
